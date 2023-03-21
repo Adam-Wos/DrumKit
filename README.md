@@ -9,7 +9,8 @@ Użytkownik naciskając klawisze "W", "S", "A", "D", "G", "H", "J", "K", "L" us�
 Użytkownik klikając myszką w poszczegółne kafelki usłyszy dźwieki z zestawu perkusyjnego.  
 Użytkownik widzi historię wciśnietych kombinacji. Użytkownik może wyczyścić historię.  
 Aplikacja jest responsywna do 375px.  
-Szczegółowy opis utworzenia aplikacji znajduje się w pliku **index.js** w postaci komentarzy.
+Szczegółowy opis utworzenia aplikacji znajduje się w pliku **index.js** w postaci komentarzy.  
+
 
 #Technologie
 > JavaScript
