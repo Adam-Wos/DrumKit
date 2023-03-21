@@ -1,7 +1,8 @@
 # DrumKit
 Autor: **Adam Woś**  
 Krakowska Akademia im. Andrzeja Frycza Modrzewskiego.  
-Jest to projekt zaliczeniowy na studiach podyplomowych, na kierunku "Frontend Developer z Angular – programowanie nowoczesnych aplikacji webowych"
+Jest to projekt zaliczeniowy na studiach podyplomowych, na kierunku "Frontend Developer z Angular – programowanie nowoczesnych aplikacji webowych"  
+
 
 #Opis projektu
 Projekt internetowego zestawu perkusyjnego, który pozwala użytkownikom grać i tworzyć dźwięki perkusji za pomocą klawiatury lub myszki.  
