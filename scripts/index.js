@@ -64,7 +64,6 @@ soundArray.forEach((element) => {
   //funkcja zawiera funkcje addElementToHistory- dodaje element do historii
 
   el.addEventListener("click", () => {
-    console.log(element.soundSample);
     let sound = new Audio(element.soundSample);
     sound.play();
     soundHistory.push(element.name);
