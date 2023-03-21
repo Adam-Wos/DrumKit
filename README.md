@@ -16,16 +16,16 @@ Szczegółowy opis utworzenia aplikacji znajduje się w pliku **index.js** w pos
 # Technologie
 > JavaScript
 
-#Uruchomienie
+# Uruchomienie
 > https://adam-wos.github.io/DrumKit/
 
-#Testy
+# Testy
 Aplikację testowano w:
  - Opera 96.0.4693.80
  - Google Chrome 111.0.5563.65 
  - Microsoft Edge 111.0.1661.44 
 
-#Żródła
+# Żródła
 > W aplikacji wykorzystano dźwięki pochodzące z:
 > https://pixabay.com/sound-effects/
 > Szczegółowe informacje zawarto w tablicy dźwięków, w pliku **sound.js**
