@@ -18,7 +18,7 @@ header.appendChild(logo);
 logo.id ="logo";
 
 const logoImg = document.createElement("img");
-logoImg.src ='media/logo_color.png';
+logoImg.src ='./media/logo_color.png';
 logoImg.id = "logoImg";
 logo.appendChild(logoImg);
 
