@@ -15,7 +15,7 @@
 > JavaScript
 
 #Uruchomienie
-https://adam-wos.github.io/DrumKit/
+> https://adam-wos.github.io/DrumKit/
 
 #Testy
 Aplikację testowano w:
@@ -25,7 +25,7 @@ Aplikację testowano w:
 
 #Żródła
 > W aplikacji wykorzystano dźwięki pochodzące z:
-- https://pixabay.com/sound-effects/
+> https://pixabay.com/sound-effects/
 > Szczegółowe informacje zawarto w tablicy dźwięków, w pliku sound.js
 
 
