@@ -20,6 +20,7 @@ logo.id ="logo";
 const logoImg = document.createElement("img");
 logoImg.src ='./media/logo_color.png';
 logoImg.id = "logoImg";
+logo.alt = "logo";
 logo.appendChild(logoImg);
 
 const logoText = document.createElement('p');
