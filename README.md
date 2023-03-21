@@ -1,15 +1,15 @@
 # DrumKit
-- Autor: Adam Woś
-- Krakowska Akademia im. Andrzeja Frycza Modrzewskiego
-- Jest to projekt zaliczeniowy na studiach podyplomowych, na keirunku "Frontend Developer z Angular – programowanie nowoczesnych aplikacji webowych"
+Autor: **Adam Woś**  
+Krakowska Akademia im. Andrzeja Frycza Modrzewskiego.  
+Jest to projekt zaliczeniowy na studiach podyplomowych, na kierunku "Frontend Developer z Angular – programowanie nowoczesnych aplikacji webowych"
 
 #Opis projektu
-- Projekt internetowego zestawu perkusyjnego, który pozwala użytkownikom grać i tworzyć dźwięki perkusji za pomocą klawiatury lub myszki. 
-- Użytkownik naciskając klawisze "W", "S", "A", "D", "G", "H", "J", "K", "L" usłyszy poszczególne dźwięki z zestawu perkusyjnego. 
-- Użytkownik klikając myszką w poszczegółne kafelki usłyszy dźwieki z zestawu perkusyjnego. 
-- Użytkownik widzi historię wciśnietych kombinacji. Użytkownik może wyczyścić historię.
-- Aplikacja jest responsywna do 375px.
-- Szczegółowy opis utworzenia aplikacji znajduje się w pliku index.js w postaci komentarzy.
+Projekt internetowego zestawu perkusyjnego, który pozwala użytkownikom grać i tworzyć dźwięki perkusji za pomocą klawiatury lub myszki.  
+Użytkownik naciskając klawisze "W", "S", "A", "D", "G", "H", "J", "K", "L" usłyszy poszczególne dźwięki z zestawu perkusyjnego.  
+Użytkownik klikając myszką w poszczegółne kafelki usłyszy dźwieki z zestawu perkusyjnego.  
+Użytkownik widzi historię wciśnietych kombinacji. Użytkownik może wyczyścić historię.  
+Aplikacja jest responsywna do 375px.  
+Szczegółowy opis utworzenia aplikacji znajduje się w pliku **index.js** w postaci komentarzy.
 
 #Technologie
 > JavaScript
@@ -26,7 +26,7 @@ Aplikację testowano w:
 #Żródła
 > W aplikacji wykorzystano dźwięki pochodzące z:
 > https://pixabay.com/sound-effects/
-> Szczegółowe informacje zawarto w tablicy dźwięków, w pliku sound.js
+> Szczegółowe informacje zawarto w tablicy dźwięków, w pliku **sound.js**
 
 
 
