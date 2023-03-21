@@ -10,8 +10,8 @@ body{
     
 }
 #app{
-    background: #2e1c1c;
-    background: linear-gradient(0deg, rgba(46,28,28,1) 0%, rgba(79,7,7,1) 50%, rgba(46,28,28,1) 100%);
+    background: rgb(50, 7, 7);
+    background: linear-gradient(0deg, rgba(50, 7, 7,1) 0%, rgba(79,7,7,1) 50%, rgba(50, 7, 7,1) 100%);
     color: wheat;
     font-size: 3.2vw;
     width: 98vw;
