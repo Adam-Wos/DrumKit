@@ -32,8 +32,6 @@ header.appendChild(title);
 title.id = "title";
 title.innerText = "The Virtual Drum Kit Experience";
 
-
-
 //Zawartość main
 
 const aside = document.createElement("aside");
@@ -47,7 +45,6 @@ main.appendChild(article);
 
 soundArray.forEach((element) => {
 
-  console.log(element);
   const el = document.createElement("div");
   el.classList.add("button");
   el.id = element.soundKey;
@@ -136,13 +133,11 @@ clearHistory.addEventListener("click", () =>{
 
 document.addEventListener("keypress", colorKey);
 
-
 function colorKey(e) {
   soundArray.forEach((element) => {
     if(e.key == element.soundKey) animateButton(element);
   });
 }
-
 
 //funckja animująca przycisk - zmiana przeźroczystości tła, zmiana rozmiaru
 
