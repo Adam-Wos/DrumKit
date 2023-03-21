@@ -3,7 +3,7 @@
 
 body{
     margin: 0;
-    background: linear-gradient(0deg, rgba(46,28,28,1) 0%, rgba(79,7,7,1) 50%, rgba(46,28,28,1) 100%);  
+    background: linear-gradient(0deg, rgba(50, 7, 7,1) 0%, rgba(79,7,7,1) 50%, rgba(50, 7, 7,1) 100%);  
 }
 *{
     font-family: 'Red Hat Display', sans-serif;
