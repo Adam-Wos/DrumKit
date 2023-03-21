@@ -102,7 +102,6 @@ document.addEventListener("keypress", logKey);
 function logKey(e) {
   soundArray.forEach((element) => {
     if(e.key == element.soundKey){
-      console.log(element.soundSample);
       let sound = new Audio(element.soundSample);
       sound.play();
       soundHistory.push(element.name);
