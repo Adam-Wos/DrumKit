@@ -1,34 +1,36 @@
 # DrumKit
-Autor: **Adam Woś**  
+Author: **Adam Woś**  
 Krakowska Akademia im. Andrzeja Frycza Modrzewskiego.  
-- Jest to projekt zaliczeniowy na studiach podyplomowych, na kierunku "Frontend Developer z Angular – programowanie nowoczesnych aplikacji webowych"  
+- This is a final project in postgraduate studies in the field of "Frontend Developer with Angular - programming modern web applications"
 
 
-# Opis projektu
-Projekt internetowego zestawu perkusyjnego, który pozwala użytkownikom grać i tworzyć dźwięki perkusji za pomocą klawiatury lub myszki.  
-Użytkownik naciskając klawisze "W", "S", "A", "D", "G", "H", "J", "K", "L" usłyszy poszczególne dźwięki z zestawu perkusyjnego.  
-Użytkownik klikając myszką w poszczegółne kafelki usłyszy dźwieki z zestawu perkusyjnego.  
-Użytkownik widzi historię wciśnietych kombinacji. Użytkownik może wyczyścić historię.  
-Aplikacja jest responsywna do 375px.  
-Szczegółowy opis utworzenia aplikacji znajduje się w pliku **index.js** w postaci komentarzy.  
+# Project description
+This is an online drum kit project that allows users to play and create drum sounds using the keyboard or mouse.  
+By pressing the keys "W", "S", "A", "D", "G", "H", "J", "K", "L", the user will hear individual sounds from the drum kit.
+By clicking the mouse on individual buttons, the user will hear sounds from the drum kit.
+The user sees the history of pressed combinations. The user can clear the history. 
+The application is responsive up to 375px.
+A detailed description of the creation of the application can be found in the **index.js** ile in the form of comments.  
 
 
-# Technologie
+# Technology
 > JavaScript
+> CSS
+> HTML
 
-# Uruchomienie
+# To start aplication:
 > https://adam-wos.github.io/DrumKit/
 
-# Testy
-Aplikację testowano w:
+# Testing
+This application was tested in:
  - Opera 96.0.4693.80
  - Google Chrome 111.0.5563.65 
  - Microsoft Edge 111.0.1661.44 
 
-# Żródła
-> W aplikacji wykorzystano dźwięki pochodzące z:
+# Sources
+> The application uses sounds from:
 > https://pixabay.com/sound-effects/
-> Szczegółowe informacje zawarto w tablicy dźwięków, w pliku **sound.js**
+> Detailed information can be found in the sound table in the file **sound.js**
 
 
 
