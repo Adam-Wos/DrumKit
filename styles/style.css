@@ -175,7 +175,7 @@ footer > #top{
     }
     main{
         width: 70%;
-        height: 52vh;
+        min-height: 200px;
         border: none;
         margin: 0 15% 0 15%;
         padding: 0 0 4vh 0;
